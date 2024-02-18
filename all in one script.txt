@@ -12442,3 +12442,6 @@ print("now loading invis script")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Invisible%20Gui'))()
 
 print("Done!")
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/nqxlOfc/Loaders/main/Blade_Ball.lua'))()
+print("oh i see you are playing bladeball use this :)")

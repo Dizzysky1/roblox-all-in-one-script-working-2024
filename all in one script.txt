@@ -1,4 +1,3 @@
-all in one script:
 
 print("going to set you up!")
 loadstring(game:HttpGet("https://pastebin.com/raw/d5BS5qiX"))() 
